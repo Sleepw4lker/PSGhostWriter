@@ -1,0 +1,3 @@
+= PSGhostWriter
+
+A Windows PowerShell Module to remote-control Microsoft Word. You can automate writing Word documents through PowerShell scripts with it.
